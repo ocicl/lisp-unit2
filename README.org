@@ -1,0 +1,10 @@
+* lisp-unit2
+
+A Test Framework for Common Lisp in the style of JUnit, designed and implemented with simplicity of use in mind.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/lisp-unit2.git   |
+| commit  | b5aa17b  |
+| systems | lisp-unit2 |
+|---------+-------------------------------------------|
+
